@@ -1,0 +1,266 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "9e3f79d9-06b6-4799-a8c0-00f1612ca30b")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 69.85 26.035)
+		(size 30.48 26.67)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "0a08b33d-ca03-4908-ad3a-32123bc769f4")
+		(property "Sheetname" "OpAmpGainStage"
+			(at 69.85 25.3234 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "GainStage.kicad_sch"
+			(at 69.85 53.2896 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "KlonePedal"
+				(path "/9e3f79d9-06b6-4799-a8c0-00f1612ca30b"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 117.475 69.215)
+		(size 20.955 14.605)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "3eec9955-4c22-4d7d-9c28-1b7c611faa44")
+		(property "Sheetname" "PowerSupply"
+			(at 117.475 68.5034 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "PowerSupply.kicad_sch"
+			(at 117.475 84.4046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "KlonePedal"
+				(path "/9e3f79d9-06b6-4799-a8c0-00f1612ca30b"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 20.955 24.13)
+		(size 40.64 28.575)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "8dab2a6e-8a79-4e44-851a-f5fa3f5eabfd")
+		(property "Sheetname" "InputStage"
+			(at 20.955 23.4184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "InputStage.kicad_sch"
+			(at 20.955 53.2896 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "KlonePedal"
+				(path "/9e3f79d9-06b6-4799-a8c0-00f1612ca30b"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 33.655 62.23)
+		(size 32.385 22.225)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "90b579db-d412-41ed-999a-9e5220731837")
+		(property "Sheetname" "BypassMode"
+			(at 33.655 61.5184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "BypassMode.kicad_sch"
+			(at 33.655 85.0396 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "KlonePedal"
+				(path "/9e3f79d9-06b6-4799-a8c0-00f1612ca30b"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 76.835 69.85)
+		(size 30.48 21.59)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "da052ba6-5344-4218-8291-cfab1439bc07")
+		(property "Sheetname" "SummingAndTone"
+			(at 76.835 69.1384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "SummingAndTone.kicad_sch"
+			(at 76.835 92.0246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "KlonePedal"
+				(path "/9e3f79d9-06b6-4799-a8c0-00f1612ca30b"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 40.005 104.775)
+		(size 34.29 22.225)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "e6f1a508-7b78-483d-9586-fd067ae996be")
+		(property "Sheetname" "OutputStage"
+			(at 40.005 104.0634 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "OutputStage.kicad_sch"
+			(at 40.005 127.5846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "KlonePedal"
+				(path "/9e3f79d9-06b6-4799-a8c0-00f1612ca30b"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
