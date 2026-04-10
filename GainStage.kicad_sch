@@ -3003,7 +3003,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 43.942 97.79 90)
 			(effects
 				(font
@@ -3207,7 +3207,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ECE319K:DIP-8_W7.62mm_LongPads"
+		(property "Footprint" "Package_SO:SO-8_3.9x4.9mm_P1.27mm"
 			(at 114.935 74.93 0)
 			(effects
 				(font
@@ -3365,7 +3365,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 196.342 105.41 90)
 			(effects
 				(font
@@ -3569,7 +3569,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 72.39 83.693 90)
 			(effects
 				(font
@@ -4133,7 +4133,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 85.852 94.615 90)
 			(effects
 				(font
@@ -4535,8 +4535,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9cbf260e-9a24-40bb-bb9d-b11434643ae0")
-		(property "Reference" "RV1"
-			(at 89.535 81.9149 0)
+		(property "Reference" "Gain_RV1"
+			(at 90.17 81.9149 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4545,7 +4545,7 @@
 			)
 		)
 		(property "Value" "100kb"
-			(at 89.535 84.4549 0)
+			(at 90.17 84.4549 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4601,7 +4601,7 @@
 		(instances
 			(project "KlonePedal"
 				(path "/9e3f79d9-06b6-4799-a8c0-00f1612ca30b/0a08b33d-ca03-4908-ad3a-32123bc769f4"
-					(reference "RV1")
+					(reference "Gain_RV1")
 					(unit 1)
 				)
 			)
@@ -4836,7 +4836,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 49.022 121.92 90)
 			(effects
 				(font
@@ -4956,7 +4956,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "afc49778-a772-40ab-af0c-e61d2d630a5a")
-		(property "Reference" "RV1"
+		(property "Reference" "Gain_RV1"
 			(at 69.85 120.6499 0)
 			(effects
 				(font
@@ -5022,7 +5022,7 @@
 		(instances
 			(project "KlonePedal"
 				(path "/9e3f79d9-06b6-4799-a8c0-00f1612ca30b/0a08b33d-ca03-4908-ad3a-32123bc769f4"
-					(reference "RV1")
+					(reference "Gain_RV1")
 					(unit 2)
 				)
 			)
@@ -5558,7 +5558,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 109.22 104.267 90)
 			(effects
 				(font

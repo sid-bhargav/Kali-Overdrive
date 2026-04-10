@@ -1242,7 +1242,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ECE319K:DIP-8_W7.62mm_LongPads"
+		(property "Footprint" "Package_SO:SO-8_3.9x4.9mm_P1.27mm"
 			(at 98.425 89.535 0)
 			(effects
 				(font
@@ -1739,7 +1739,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "ECE319K:DIP-8_W7.62mm_LongPads"
+		(property "Footprint" "Package_SO:SO-8_3.9x4.9mm_P1.27mm"
 			(at 100.965 107.95 0)
 			(effects
 				(font

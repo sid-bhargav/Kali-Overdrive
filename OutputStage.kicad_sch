@@ -1494,7 +1494,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3071115f-fe1c-463a-b135-9808bcd66b5a")
-		(property "Reference" "RV2"
+		(property "Reference" "Level_RV2"
 			(at 106.68 125.0949 0)
 			(effects
 				(font
@@ -1551,7 +1551,7 @@
 		(instances
 			(project "KlonePedal"
 				(path "/9e3f79d9-06b6-4799-a8c0-00f1612ca30b/e6f1a508-7b78-483d-9586-fd067ae996be"
-					(reference "RV2")
+					(reference "Level_RV2")
 					(unit 1)
 				)
 			)
