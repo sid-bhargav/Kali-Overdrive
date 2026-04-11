@@ -1475,6 +1475,16 @@
 		)
 		(uuid "94433ea3-e424-4628-9b22-4535e059d3e1")
 	)
+	(text "was 1N4001, but going\nwith the S1A in SMA"
+		(exclude_from_sim no)
+		(at 137.16 75.946 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "b1d15459-abbe-4a83-a699-f4b8afe31fab")
+	)
 	(text "Still made"
 		(exclude_from_sim no)
 		(at 179.832 71.12 0)
@@ -1485,9 +1495,9 @@
 		)
 		(uuid "dcd90976-ad63-4bda-b121-35fecf69a18e")
 	)
-	(text "Buying 1N474ATR\n"
+	(text "Diode: 1N4742\nThrough Hole: 1N474ATR\nSMD: 1SMA4742\n"
 		(exclude_from_sim no)
-		(at 83.566 86.614 0)
+		(at 82.55 88.646 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3002,7 +3012,7 @@
 				)
 			)
 		)
-		(property "Value" "1N4001"
+		(property "Value" "S1A"
 			(at 145.415 82.55 0)
 			(effects
 				(font
@@ -3010,7 +3020,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SMA_Handsoldering"
 			(at 145.415 86.36 0)
 			(effects
 				(font
@@ -3159,7 +3169,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1N4742"
+		(property "Value" "1SMA4742"
 			(at 85.09 83.8199 90)
 			(effects
 				(font
@@ -3168,7 +3178,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SMA_Handsoldering"
 			(at 77.47 82.55 0)
 			(effects
 				(font
@@ -3228,7 +3238,7 @@
 				)
 			)
 		)
-		(property "Value" "1N4001"
+		(property "Value" "S1A"
 			(at 128.27 82.55 0)
 			(effects
 				(font
@@ -3236,7 +3246,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SMA_Handsoldering"
 			(at 128.27 86.36 0)
 			(effects
 				(font
