@@ -1387,7 +1387,7 @@
 				)
 			)
 		)
-		(property "Value" "NMJ4HCD2"
+		(property "Value" "NMJ4HCD2_input"
 			(at 53.34 83.82 0)
 			(effects
 				(font
